@@ -1,0 +1,14 @@
+[package]
+name = "quamatic/react-hookbox"
+description = "Useful collection of utility hooks for React."
+version = "1.0.0"
+license = "MIT"
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+[dependencies]
+React = "core-packages/react@17.0.1-rc.19"
+ReactRoblox = "core-packages/react-roblox@17.0.1-rc.19"
+Collections = "core-packages/collections@1.2.3"
+Timers = "core-packages/timers@1.2.3"
+ES7Types = "core-packages/es7-types@1.2.3"

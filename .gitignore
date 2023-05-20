@@ -1,0 +1,9 @@
+# Project place file
+/rbx-react-hookbox.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Wally
+Packages

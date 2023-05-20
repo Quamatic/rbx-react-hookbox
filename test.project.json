@@ -1,0 +1,13 @@
+{
+    "name": "rbx-react-hookbox",
+    "tree": {
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$className": "ReplicatedStorage",
+            "$path": "Packages",
+            "ReactHookbox": {
+                "$path": "src"
+            }
+        }
+    }
+}
